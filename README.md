@@ -1,5 +1,7 @@
 # The xmake statistical analysis services
 
+![](https://img.shields.io/github/downloads/tboox/xmake-stats/v2.2.9/total.svg?style=flat-square) ![](https://img.shields.io/github/downloads/tboox/xmake-stats/v2.2.9/linux.svg?style=flat-square) ![](https://img.shields.io/github/downloads/tboox/xmake-stats/v2.2.9/macosx.svg?style=flat-square) ![](https://img.shields.io/github/downloads/tboox/xmake-stats/v2.2.8/windows.svg?style=flat-square)
+
 ![](https://img.shields.io/github/downloads/tboox/xmake-stats/v2.2.8/total.svg?style=flat-square) ![](https://img.shields.io/github/downloads/tboox/xmake-stats/v2.2.8/linux.svg?style=flat-square) ![](https://img.shields.io/github/downloads/tboox/xmake-stats/v2.2.8/macosx.svg?style=flat-square) ![](https://img.shields.io/github/downloads/tboox/xmake-stats/v2.2.8/windows.svg?style=flat-square)
 
 ![](https://img.shields.io/github/downloads/tboox/xmake-stats/v2.2.7/total.svg?style=flat-square) ![](https://img.shields.io/github/downloads/tboox/xmake-stats/v2.2.7/linux.svg?style=flat-square) ![](https://img.shields.io/github/downloads/tboox/xmake-stats/v2.2.7/macosx.svg?style=flat-square) ![](https://img.shields.io/github/downloads/tboox/xmake-stats/v2.2.7/windows.svg?style=flat-square)
